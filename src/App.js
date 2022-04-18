@@ -1,29 +1,23 @@
-
-import './App.css';
-
-import Services from './assignmment/Services/Services';
-import Footer from './assignmment/Footer/Footer';
-import Header from './assignmment/Home/Header/Header';
-import About from './assignmment/About/About'
+import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import Home from './assignmment/Home/Home/Home';
+import About from './assignment/About/About';
+import Footer from './assignment/Footer/Footer';
+import Header from './assignment/Header/Header';
+import Home from './assignment/Home/Home';
 
-function App() {
+
+const App = () => {
   return (
-    <div className="">
-
-       <Header></Header>
-       <Routes>
-         <Route path='/' element={<Home></Home>}></Route>
-         <Route path='/services' element={<Services></Services>}>
-         <Route path='/about' element={<About></About>}></Route> 
-         </Route>
-       </Routes>
-      
-      <Footer></Footer>
-
+    <div>
+     <h2>assignment</h2>
+     <Header></Header>
+     <Routes>
+       <Route path="/" element={<Home></Home>}></Route>
+       <Route path="/about" element={<About></About>}></Route>
+     </Routes>
+     <Footer></Footer>
     </div>
   );
-}
+};
 
 export default App;
