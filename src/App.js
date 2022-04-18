@@ -9,7 +9,6 @@ import Home from './assignment/Home/Home';
 const App = () => {
   return (
     <div>
-     <h2>assignment</h2>
      <Header></Header>
      <Routes>
        <Route path="/" element={<Home></Home>}></Route>
