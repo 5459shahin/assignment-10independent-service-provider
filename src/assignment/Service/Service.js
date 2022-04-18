@@ -5,9 +5,10 @@ const Service = ({service}) => {
     return (
         <div>
             <img src={img} alt="" />
-            <h2>This is Service : {name}</h2>
+            <h2> Our Best Services </h2>
             <p>price : ${price}</p>
             <p><small>{description}</small></p>
+            <button>Book: {name}</button>
         </div>
     );
 };
