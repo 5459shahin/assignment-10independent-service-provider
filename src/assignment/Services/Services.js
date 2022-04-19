@@ -11,7 +11,8 @@ const Services = () => {
     }, [])
 
     return (
-        <div className='container'>
+        <div id="services" className='container'>
+            <div className="row">
             <h2>Services: {services.length}</h2>
            <div className="services-container">
            {
@@ -21,6 +22,7 @@ const Services = () => {
                 ></Service>)
             }
            </div>
+            </div>
         </div>
     );
 };

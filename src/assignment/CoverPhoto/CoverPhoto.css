@@ -1,5 +1,6 @@
-.cover-photo{
+.cover-photo {
     height: 400px;
-    background-color: black;
+    margin-left: 180px;
     margin-bottom: 20px;
+    border: 1px solid;
 }

@@ -4,41 +4,41 @@
         "name": "ENGINE DIAGNOSTIC",
         "price": "300",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+        "img": "https://img.freepik.com/free-vector/pediatrician-giving-girl-injection-vaccination-preteens-teens-older-children-immunization-prevent-your-kids-from-diseases-concept-pinkish-coral-bluevector-vector-isolated-illustration_335657-1622.jpg?t=st=1650300621~exp=1650301221~hmac=2e93a5f90d3eb6a901ee3b646334e48b550366e3a1f95172edb16f5b3dabaeb1&w=740"
     },
     {
         "id": 2,
         "name": "WHEEL ALIGNMENT",
         "price": "100",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+        "img": "https://img.freepik.com/free-vector/pediatrician-concept-illustration_114360-8935.jpg?t=st=1650300621~exp=1650301221~hmac=5098606e8d61317625e8de63f9f5244eac005b7a3175704a0e9b4c2a0142e0fc&w=740"
     },
     {
         "id": 3,
         "name": "OIL CHANGING",
         "price": "150",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+        "img": "https://img.freepik.com/free-vector/big-family-visiting-doctor_74855-1268.jpg?t=st=1650300621~exp=1650301221~hmac=6e4d989259d22650c69bdae3abd95329df9de14cd1ae7220f383b6acbc4d765e&w=740"
     },
     {
         "id": 4,
         "name": "BRAKE REPARING",
         "price": "180",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
+        "img": "https://img.freepik.com/free-vector/family-doctor-abstract-concept-illustration_335657-4995.jpg?t=st=1650300621~exp=1650301221~hmac=e1b976872e85828666cf2d86f28bdc6c2cb44679270221291e2e363dce8c42e1&w=740"
     },
     {
         "id": 5,
         "name": "WASH AND GLASSING",
         "price": "100",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/FgQ3jXp/5.jpg"
+        "img": "https://img.freepik.com/free-vector/doctor-present-with-empty-space_38747-189.jpg?w=740"
     },
     {
         "id": 6,
         "name": "COMPLETE ANALYSIS",
         "price": "300",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-        "img": "https://i.ibb.co/zJy5ZDd/6.jpg"
+        "img": "https://img.freepik.com/free-vector/kid-hospital-with-doctor-scene_1308-50932.jpg?t=st=1650300621~exp=1650301221~hmac=37b0635ad012289329ab412ab0e041108a9fbe5cbf060ee14302597545a3d4ef&w=740"
     }
 ]
