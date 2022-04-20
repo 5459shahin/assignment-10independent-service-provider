@@ -1,14 +1,14 @@
 .footer-section{
     margin-top: 30px;
-    height: 400px;
-    background-color: darkslategrey;
+    height: 330px;
+    background-color: black;
 }
 .footer-contain{
     justify-content:center;
     
 }
 .footer-card{
-    background-color: blue;
+    
     margin-top: 30px;
     margin-left: 50px;
     width: 300px;

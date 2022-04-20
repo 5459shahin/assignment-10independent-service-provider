@@ -1,12 +1,20 @@
-# Getting Started with Create React App
-
+# Children specialist
 This project was Assignment-10 [Github link](https://github.com/programming-hero-web-course-4/independent-service-provider-5459shahin).
 
-## Available Scripts
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-In the project directory, you can run:
+##  This is a website about Children specialist services.
+* The website is fully function Single Page Application.
 
-### `npm start`
+* It has Private route.
+* User can register with email and Password
+* User can also sign in with google account.
+* It has password reset system.
+* Many of the components have been used
+
+* Destructive has been used
+* React Router has been used
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.

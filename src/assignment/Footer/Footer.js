@@ -5,38 +5,32 @@ const Footer = () => {
     const today = new Date();
     const year = today.getFullYear();
     return (
-        <div className='footer-section'>
+        <div className='footer-section sticky-bottom'>
 
             <div class="card-group footer-contain">
                 <div class=" footer-card">
-                    <img src="..." class="card-img-top" alt="..."/>
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            <p class="card-text"><small class="text-white">Healing Power of Presence</small></p>
+                            <p class="card-text"><small class="text-white">Our Mission and Values</small></p>
+                            <p class="card-text"><small class="text-white">Quality Care</small></p>
+                            <p class="card-text"><small class="text-white">Donate</small></p>
                         </div>
                 </div>
-                <div class="footer-card">
-                    <img src="..." class="card-img-top" alt="..."/>
+                <div class="footer-card ">
+                    
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <p class="card-text"><small class="text-white">Patients & Visitors</small></p>
+                            <p class="card-text"><small class="text-white">Classes & Events</small></p>
+                            <p class="card-text"><small class="text-white">Financial Assistance</small></p>
+                            <p class="card-text"><small class="text-white">My Chart Login</small></p>
                         </div>
                 </div>
-                <div class=" footer-card">
-                    <img src="..." class="card-img-top" alt="..."/>
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                        </div>
-                </div>
+               
             </div>
 
 
-            <footer className="text-center mt-5">
-                Copyright @ {year}
+            <footer className="text-center mt-5 text-secondary">
+                Copyright &copy; {year}
             </footer>
         </div>
     );
