@@ -7,14 +7,14 @@ const Service = ({service}) => {
     
 
     return (
-        <div className='service-container'>
+        <div className='service-container position-relative'>
             <img src={img} alt="" />
             <h2> {name} </h2>
             <p>price : ${price}</p>
-            <p><small>{description}</small></p>
+            <p className='mb-5'><small>{description}</small></p>
             
            
-            <Link className='btn btn-dark w-100 pt-1  check-out-btn ' as={Link} to="/checkout">CheckOut</Link>
+            <Link className='btn btn-dark w-100 pt-1 position-absolute bottom-0 check-out-btn ' as={Link} to="/checkout">CheckOut</Link>
         </div>
     );
 };

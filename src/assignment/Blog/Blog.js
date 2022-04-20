@@ -8,7 +8,7 @@ const Blog = () => {
             <div className="blog  container">
                 <div className='container'>
                     <h3 className='title'>Difference between authorization and authentication</h3>
-                    <div className=' blog-contain d-flex'>
+                    <div className=' blog-contain '>
                         <div className='blog-body'>
 
                             <h3>Authentication</h3>
