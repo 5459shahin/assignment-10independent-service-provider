@@ -4,6 +4,7 @@ import { useCreateUserWithEmailAndPassword } from 'react-firebase-hooks/auth';
 import auth from '../../firebase.init';
 import './Register.css'
 import SocialLogin from '../SocialLogin/SocialLogin';
+import LoadSpinner from '../LoadSpinner/LoadSpinner';
 
 
 const Register = () => {
@@ -22,6 +23,10 @@ const Register = () => {
     if(user){
         navigate('/home');
     }
+    if(loading){
+        return <LoadSpinner/>
+    }
+
 
     const handleRegister = event =>{
         event.preventDefault();

@@ -3,6 +3,7 @@ import { Button, Form } from 'react-bootstrap';
 import { useSignInWithEmailAndPassword } from 'react-firebase-hooks/auth';
 import { Link, useLocation,  useNavigate } from 'react-router-dom';
 import auth from '../../firebase.init';
+import LoadSpinner from '../LoadSpinner/LoadSpinner';
 import SocialLogin from '../SocialLogin/SocialLogin';
 
 
@@ -23,6 +24,9 @@ const Login = () => {
 
       if(user){
           navigate(from, { replace: true });
+      }
+      if(loading){
+          return <LoadSpinner/>
       }
 
       const handleSubmit = event =>{
