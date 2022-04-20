@@ -1,9 +1,9 @@
 # Children specialist
 This project was Assignment-10 [Github link](https://github.com/programming-hero-web-course-4/independent-service-provider-5459shahin).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+firebase live link [https://assignmment-10.web.app/checkout) 
 
+## about the  websit application
 ##  This is a website about Children specialist services.
 * The website is fully function Single Page Application.
 
