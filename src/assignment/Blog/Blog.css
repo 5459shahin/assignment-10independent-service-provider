@@ -1,0 +1,20 @@
+.blog{
+    margin: 20px;
+}
+.title{
+    text-align: center;
+}
+.blog-contain{
+     
+     margin-left: 30px;
+     margin: 0 auto;
+}
+
+.blog-body{
+    width: 300px;
+    margin-left: 20px;
+}
+.blog-answer{
+    width: 40%;
+    margin: 0 auto;
+}

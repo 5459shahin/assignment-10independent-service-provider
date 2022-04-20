@@ -1,12 +1,15 @@
 .services-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 35px;
+    gap: 80px;
+    padding: 5px;
+    width: 350px;
+    
+    
 }
 .services-container img{
-    width: 300px;
+    width: 290px;
     height: 350px;
-    border: 1px solid;
 }
 
 /* responsive  */

@@ -1,0 +1,9 @@
+.service-container{
+    border: 1px solid rgba(56, 16, 16, 0.089);
+    padding: 15px;
+}
+.check-out-btn{
+    width: 100%;
+    height: 40px;
+    padding-top: 10px;
+}

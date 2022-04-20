@@ -1,10 +1,10 @@
 import React from 'react';
 import cover from '../../images/banner (2).jpg'
-import './CoverPhoto.css'
+import './cover-photo.css';
 
 const CoverPhoto = () => {
     return (
-        <div className=''>
+        <div>
             
               <img  className='cover-photo' src={cover} alt="..."/>  
         </div>
