@@ -1,7 +1,7 @@
 # Children specialist
 This project was Assignment-10 [Github link](https://github.com/programming-hero-web-course-4/independent-service-provider-5459shahin).
 
-firebase live link [https://assignmment-10.web.app/checkout) 
+# firebase live link [https://independent-service-assignment.web.app/) 
 
 ## about the  websit application
 ##  This is a website about Children specialist services.
